@@ -5,10 +5,8 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riteshhhh11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=riteshhhh11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshhhh11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=riteshhhh11&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshhhh11&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🌐 Projects:
 - I am currently developing <a href="www.google.com"> BloodCircuit </a >using the Unity engine.
 - Learning C++ and Unreal Engine
