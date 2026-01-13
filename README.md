@@ -2,7 +2,7 @@
 
 Unity3D Developer specialising in **gameplay programming, performance optimisation, and system-driven development** using **C# and Unity**. Experienced in building and shipping multiplayer games, AI-driven simulations, and VR prototypes with a strong focus on clean architecture, scalability, and runtime performance.
 
-Currently completing an **MSc in Game Development (Programming)** at Kingston University, London.
+Completed **MSc in Game Development (Programming)** at Kingston University, London.
 
 ---
 
